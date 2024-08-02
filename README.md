@@ -1,5 +1,5 @@
 # MarketMoves
-Objective: From historical data find how the market has moved.
+Objective: From historical data find how the stock market/an instrument has moved and identify trends.
 
 Intro:
 1. Market has 3 moves; Up, Down and Consoldated moves. This script adds 3 more moves Whipsaw(when market is choppy or moves are greater than 2 standard deviations in a given period), UpWhipsaw and DownWhipsaw. 
